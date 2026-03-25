@@ -1,0 +1,15 @@
+cff-version: "1.2"
+message: "This citation is for academic use"
+author:
+  - family-names: "Garabato"
+    given-names: "Camila"
+title: "Title of the Research Algorithm"
+institution: "Institution Name"
+date: "2026-03-25"
+version: "1.0"
+keywords:
+  - "algorithm"
+  - "research"
+  - "DM2"
+issn: "1234-5678"
+doi: "10.1234/abc123"
